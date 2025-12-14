@@ -1,0 +1,6 @@
+chatterbox-tts
+fastapi
+uvicorn
+torchaudio
+pydantic
+modal
